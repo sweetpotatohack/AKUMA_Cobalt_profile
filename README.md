@@ -106,7 +106,7 @@ set profile gmail-stealth-defender-verified.profile
 
 ## 🔗 Github
 
-**Repo:** [https://github.com/sweetpotatohack/AKUMA\_gmail\_profile](https://github.com/sweetpotatohack/AKUMA_gmail_profile)
+**Repo:** [https://github.com/sweetpotatohack/AKUMA\_gmail\_profile](https://github.com/sweetpotatohack/AKUMA_Cobalt_profile)
 **License:** BSD 3-Clause (血の誓約 / Blood Oath)
 
 # AKUMA GMAIL PROFILE — Профиль стелс-трафика Gmail
@@ -213,5 +213,5 @@ set profile gmail-stealth-defender-verified.profile
 
 ## 🔗 GitHub
 
-**Repo:** [https://github.com/sweetpotatohack/AKUMA\_gmail\_profile](https://github.com/sweetpotatohack/AKUMA_gmail_profile)
+**Repo:** [https://github.com/sweetpotatohack/AKUMA\_gmail\_profile](https://github.com/sweetpotatohack/AKUMA_Cobalt_profile)
 **Лицензия:** BSD 3-Clause (Кровавая клятва)
